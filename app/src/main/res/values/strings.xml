@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="from">De</string>
+    <string name="to">Para</string>
+    <string name="currency_to_currency">1 %1$s custa %2$s %3$s</string>
+    <string name="amount">Valor</string>
+    <string name="convert">Convert</string>
+    <string name="converted_amount">Valor convertido:</string>
+    <string name="hint">Valor a ser convertido</string>
+    <string name="from_currency">De que moeda você quer converter?</string>
+    <string name="to_currency">Para qual moeda você deseja converter?</string>
+    <string name="rate">Taxa:</string>
+    <string name="currency_converter">Conversor de\nMoedas</string>
+</resources>
